@@ -71,18 +71,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrish-dhole&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrish-dhole&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/shrish-dhole  
